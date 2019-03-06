@@ -1,0 +1,7 @@
+Instructions:
+
+1)Check whether BaseR and R Studio are installed in your machine
+2)Open the R script in R Studio
+3)Run the code line by line using Ctrl+Enter key
+4)Enter the input values whenever prompted by the program
+5)Check the Plots tab on R.H.S. for Visualization 
