@@ -1,0 +1,7 @@
+Steps:
+
+1) Follow the youtube link for istallation procedures.
+2) Open the notebook named as "Pyspark training complete" in anaconda Jupyter.
+3) Please change the file paths in the code accordinly for importing the datasets.
+4) Run the code using shift+enter.
+3) Check reference documents for detailed explanation.
